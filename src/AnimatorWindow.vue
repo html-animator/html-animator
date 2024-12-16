@@ -242,6 +242,17 @@
                             this.$refs.animationScriptMetadataDialog.show(sceneType, this.animationScript.metadata);
                         }
                     }]
+                }, {
+                    label: "Help",
+                    items: [{
+                        label: "Getting started",
+                        url: "https://github.com/html-animator/web-app/wiki/Getting-started",
+                        target: "_blank"
+                    }, {
+                        label: "About",
+                        url: "https://github.com/html-animator/web-app",
+                        target: "_blank"
+                    }]
                 }],
                 selectedSceneNode: null,
                 sceneViewer: null,
