@@ -66,7 +66,7 @@
                 <Button class="icon-button" severity="secondary" title="Copy selected keyframes" @click="copy">
                     <span class="icon-content-copy" />
                 </Button>
-                <Button class="icon-button" severity="secondary" title="Paste copied keyframes" @click="paste">
+                <Button class="icon-button" severity="secondary" title="Paste copied keyframes at current time" @click="paste">
                     <span class="icon-content-paste" />
                 </Button>
                 <Button class="icon-button mr-4" severity="secondary" title="Adjust animation duration" @click="adjustDuration">
