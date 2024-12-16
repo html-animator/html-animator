@@ -21,14 +21,11 @@ jobs:
     - name: Install packages
       run: npm ci
       
-    - name: Config npm
-      run: npm pkg set homepage="https://html-animator.github.io"
-      
     - name: Build web app
       run: npm run build
       
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
+      uses: actions/deploy-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        puslish_dir: ./dist
+        publish_dir: ./dist
