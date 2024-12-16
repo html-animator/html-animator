@@ -1,0 +1,5 @@
+<svg viewBox="0 0 500 500" width="500px" height="500px" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" style="fill: rgb(255, 255, 255);"></rect>
+  <path d="M 249.99 100 C 332.833 99.995 399.995 167.147 400 249.99 C 400.005 332.833 332.853 399.995 250.01 400 C 167.167 400.005 100.005 332.853 100 250.01 C 99.995 167.167 167.147 100.005 249.99 100" style="stroke: rgb(0, 0, 0); fill: none; stroke-dasharray: 5; stroke-width: 2px;" id="path"></path>
+  <path id="box" d="M -25 -25 L 25 -25 L 25 25 L -25 25 L -25 -25 Z" style="fill: rgb(51, 153, 255);"></path>
+</svg>

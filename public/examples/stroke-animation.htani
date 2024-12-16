@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "timeline": {},
+    "fileFormatVersion": "com.htmlanimator.app.script.v1"
+  },
+  "animations": [
+    {
+      "targets": "#text-h-1",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": "rgb(51, 153, 255)"
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "neFARwJd",
+              "type": "regular",
+              "value": "0",
+              "time": 0,
+              "easing": null,
+              "groupId": "gPjznOvd"
+            },
+            {
+              "id": "gXJ8a3M7",
+              "type": "regular",
+              "value": "100",
+              "time": 400,
+              "easing": null,
+              "groupId": "gPjznOvd"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    },
+    {
+      "targets": "#text-h-2",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": "rgb(51, 153, 255)"
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "5E657ZCJ",
+              "type": "regular",
+              "value": "0",
+              "time": 500,
+              "easing": null,
+              "groupId": "MYRES5E5"
+            },
+            {
+              "id": "NLJRJSlx",
+              "type": "regular",
+              "value": "100",
+              "time": 900,
+              "easing": null,
+              "groupId": "MYRES5E5"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    },
+    {
+      "targets": "#text-h-3",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": "rgb(51, 153, 255)"
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "hPuDxRme",
+              "type": "regular",
+              "value": "0",
+              "time": 1000,
+              "easing": null,
+              "groupId": "DuYem6gy"
+            },
+            {
+              "id": "eVV2a9nC",
+              "type": "regular",
+              "value": "100",
+              "time": 1400,
+              "easing": null,
+              "groupId": "DuYem6gy"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    },
+    {
+      "targets": "#text-t-1",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": "rgb(51, 153, 255)"
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "BQc4awZk",
+              "type": "regular",
+              "value": "0",
+              "time": 1500,
+              "easing": null,
+              "groupId": "NZEhqatP"
+            },
+            {
+              "id": "sFuOqWBg",
+              "type": "regular",
+              "value": "100",
+              "time": 1900,
+              "easing": null,
+              "groupId": "NZEhqatP"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    },
+    {
+      "targets": "#text-t-2",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": "rgb(51, 153, 255)"
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "QQ1Z8u8y",
+              "type": "regular",
+              "value": "0",
+              "time": 2000,
+              "easing": null,
+              "groupId": "hgBUySP7"
+            },
+            {
+              "id": "bEN3EYow",
+              "type": "regular",
+              "value": "100",
+              "time": 2400,
+              "easing": null,
+              "groupId": "hgBUySP7"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    },
+    {
+      "targets": "#text-m",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": "rgb(51, 153, 255)"
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "RvPPWxl2",
+              "type": "regular",
+              "value": "0",
+              "time": 2500,
+              "easing": null,
+              "groupId": "hbhzmBBB"
+            },
+            {
+              "id": "znhtfJGT",
+              "type": "regular",
+              "value": "100",
+              "time": 3500,
+              "easing": null,
+              "groupId": "hbhzmBBB"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    },
+    {
+      "targets": "#text-l",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": "rgb(51, 153, 255)"
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "62Z3z0y4",
+              "type": "regular",
+              "value": "0",
+              "time": 3600,
+              "easing": null,
+              "groupId": "tLmCqOhb"
+            },
+            {
+              "id": "fcM9IaZK",
+              "type": "regular",
+              "value": "100",
+              "time": 4200,
+              "easing": null,
+              "groupId": "tLmCqOhb"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    },
+    {
+      "targets": "#text-animator",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": "rgb(51, 153, 255)"
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "4qCn13UZ",
+              "type": "regular",
+              "value": "0",
+              "time": 4300,
+              "easing": null,
+              "groupId": "v7SCS7uQ"
+            },
+            {
+              "id": "666Emtu1",
+              "type": "regular",
+              "value": "100",
+              "time": 8700,
+              "easing": null,
+              "groupId": "v7SCS7uQ"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    },
+    {
+      "targets": "#text-animator-i-dot",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": "rgb(51, 153, 255)"
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "LlkvBe9C",
+              "type": "regular",
+              "value": "0",
+              "time": 8800,
+              "easing": null,
+              "groupId": "7fLkMyF0"
+            },
+            {
+              "id": "BLbQ0zpg",
+              "type": "regular",
+              "value": "100",
+              "time": 8900,
+              "easing": null,
+              "groupId": "7fLkMyF0"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    },
+    {
+      "targets": "#text-animator-t-dash",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": "rgb(51, 153, 255)"
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "E6pkqG1d",
+              "type": "regular",
+              "value": "0",
+              "time": 9000,
+              "easing": null,
+              "groupId": "CB61jLNn"
+            },
+            {
+              "id": "Lh4gm6tb",
+              "type": "regular",
+              "value": "100",
+              "time": 9100,
+              "easing": null,
+              "groupId": "CB61jLNn"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    },
+    {
+      "targets": "#frame-inner",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": "rgb(51, 153, 255)"
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "iZNQmYKf",
+              "type": "regular",
+              "value": "0",
+              "time": 9500,
+              "easing": null,
+              "groupId": "Ep5CpEVF"
+            },
+            {
+              "id": "niMmlw6W",
+              "type": "regular",
+              "value": "100",
+              "time": 13500,
+              "easing": null,
+              "groupId": "Ep5CpEVF"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    },
+    {
+      "targets": "#frame-outer",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": null
+          },
+          "name": "strokeDashoffset",
+          "keyframes": [
+            {
+              "id": "kiCRBJIx",
+              "type": "regular",
+              "value": "0",
+              "time": 13600,
+              "easing": null,
+              "groupId": "tWJfRW4H"
+            },
+            {
+              "id": "uwzlhkR3",
+              "type": "regular",
+              "value": "100",
+              "time": 17600,
+              "easing": null,
+              "groupId": "tWJfRW4H"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    }
+  ]
+}

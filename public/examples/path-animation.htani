@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "timeline": {},
+    "fileFormatVersion": "com.htmlanimator.app.script.v1"
+  },
+  "animations": [
+    {
+      "targets": "#box",
+      "defaults": { "easing": "linear" },
+      "properties": [
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": null
+          },
+          "name": "translateX",
+          "keyframes": [
+            {
+              "id": "yWawGubc",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "x",
+              "value": "0",
+              "time": 0,
+              "easing": "easeInCubic",
+              "groupId": "PMNrnAug"
+            },
+            {
+              "id": "V4Xx4uAh",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "x",
+              "value": "50",
+              "time": 1000,
+              "easing": "easeOutCubic",
+              "groupId": "PMNrnAug"
+            },
+            {
+              "id": "MrPHNXXH",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "x",
+              "value": "100",
+              "time": 2000,
+              "easing": "easeInCubic",
+              "groupId": "PMNrnAug"
+            },
+            {
+              "id": "fVIu9g3I",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "x",
+              "value": "50",
+              "time": 3000,
+              "easing": "easeOutCubic",
+              "groupId": "PMNrnAug"
+            },
+            {
+              "id": "HgstjDYp",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "x",
+              "value": "0",
+              "time": 4000,
+              "easing": "easeInOutSine",
+              "groupId": "PMNrnAug"
+            },
+            {
+              "id": "ddHNqyyx",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "x",
+              "value": "0",
+              "time": 4500,
+              "easing": "easeInOutSine",
+              "groupId": "RhjodV0M"
+            },
+            {
+              "id": "mqwe4uwf",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "x",
+              "value": "25",
+              "time": 5000,
+              "easing": "easeInOutSine",
+              "groupId": "RhjodV0M"
+            },
+            {
+              "id": "NtUoc52H",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "x",
+              "value": "50",
+              "time": 5500,
+              "easing": "easeInOutSine",
+              "groupId": "RhjodV0M"
+            },
+            {
+              "id": "iJHqH9bF",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "x",
+              "value": "75",
+              "time": 6000,
+              "easing": "easeInOutSine",
+              "groupId": "RhjodV0M"
+            },
+            {
+              "id": "K8nkaoOt",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "x",
+              "value": "100",
+              "time": 6500,
+              "easing": "easeInOutSine",
+              "groupId": "RhjodV0M"
+            }
+          ],
+          "keyframeGroups": {}
+        },
+        {
+          "metadata": {
+            "isDisabled": false,
+            "isExpanded": true,
+            "color": null
+          },
+          "name": "translateY",
+          "keyframes": [
+            {
+              "id": "pral7Q4x",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "y",
+              "value": "0",
+              "time": 0,
+              "easing": "easeInCubic",
+              "groupId": "nWngMgxS"
+            },
+            {
+              "id": "3Plrq8cZ",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "y",
+              "value": "50",
+              "time": 1000,
+              "easing": "easeOutCubic",
+              "groupId": "nWngMgxS"
+            },
+            {
+              "id": "mWWmP3wq",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "y",
+              "value": "100",
+              "time": 2000,
+              "easing": "easeInCubic",
+              "groupId": "nWngMgxS"
+            },
+            {
+              "id": "khWS4IN9",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "y",
+              "value": "50",
+              "time": 3000,
+              "easing": "easeOutCubic",
+              "groupId": "nWngMgxS"
+            },
+            {
+              "id": "KYabUF8o",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "y",
+              "value": "0",
+              "time": 4000,
+              "easing": "easeInOutSine",
+              "groupId": "nWngMgxS"
+            },
+            {
+              "id": "WyktKBDT",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "y",
+              "value": "0",
+              "time": 4500,
+              "easing": "easeInOutSine",
+              "groupId": "Bes4yYAN"
+            },
+            {
+              "id": "dvbfxQWg",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "y",
+              "value": "25",
+              "time": 5000,
+              "easing": "easeInOutSine",
+              "groupId": "Bes4yYAN"
+            },
+            {
+              "id": "Y2yaikcG",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "y",
+              "value": "50",
+              "time": 5500,
+              "easing": "easeInOutSine",
+              "groupId": "Bes4yYAN"
+            },
+            {
+              "id": "5QZaPNzA",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "y",
+              "value": "75",
+              "time": 6000,
+              "easing": "easeInOutSine",
+              "groupId": "Bes4yYAN"
+            },
+            {
+              "id": "dkj7lmPL",
+              "type": "path",
+              "pathSelector": "#path",
+              "pathProperty": "y",
+              "value": "100",
+              "time": 6500,
+              "easing": "easeInOutSine",
+              "groupId": "Bes4yYAN"
+            }
+          ],
+          "keyframeGroups": {}
+        }
+      ]
+    }
+  ]
+}

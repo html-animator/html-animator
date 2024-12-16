@@ -1,0 +1,4 @@
+<svg viewBox="0 0 500 500" width="500px" height="500px" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" style="fill: rgb(255, 255, 255);"></rect>
+  <ellipse id="ball" cx="250" cy="95" rx="75" ry="75" style="fill: rgb(51, 153, 255); transform-box: fill-box; transform-origin: center bottom;"></ellipse>
+</svg>

@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "timeline": {},
+        "fileFormatVersion": "com.htmlanimator.app.script.v1"
+    },
+    "animations": [{
+            "targets": "#ball",
+            "defaults": {
+                "easing": "linear"
+            },
+            "properties": [{
+                    "metadata": {
+                        "isDisabled": false,
+                        "isExpanded": true,
+                        "color": "rgb(51, 153, 255)"
+                    },
+                    "name": "translateY",
+                    "keyframes": [{
+                            "id": "rT3QTx63",
+                            "type": "regular",
+                            "value": "0",
+                            "time": 0,
+                            "easing": "easeOutBounce",
+                            "groupId": "cmhgSVp0"
+                        }, {
+                            "id": "ABK87vQn",
+                            "type": "regular",
+                            "value": "330",
+                            "time": 2000,
+                            "easing": null,
+                            "groupId": "cmhgSVp0"
+                        }
+                    ],
+                    "keyframeGroups": {}
+                }, {
+                    "metadata": {
+                        "isDisabled": false,
+                        "isExpanded": true,
+                        "color": "rgb(51, 153, 255)"
+                    },
+                    "name": "scaleY",
+                    "keyframes": [{
+                            "id": "6E2qvfhq",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 650,
+                            "easing": null,
+                            "groupId": "Ra6E6V5L"
+                        }, {
+                            "id": "tjhGiZNj",
+                            "type": "regular",
+                            "value": "0.75",
+                            "time": 750,
+                            "easing": null,
+                            "groupId": "Ra6E6V5L"
+                        }, {
+                            "id": "RLdf3o9E",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 850,
+                            "easing": null,
+                            "groupId": "Ra6E6V5L"
+                        }, {
+                            "id": "soUGzygo",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 1400,
+                            "easing": null,
+                            "groupId": "wD3JGOiJ"
+                        }, {
+                            "id": "kF59fuc6",
+                            "type": "regular",
+                            "value": "0.85",
+                            "time": 1450,
+                            "easing": null,
+                            "groupId": "wD3JGOiJ"
+                        }, {
+                            "id": "ifzuroMU",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 1500,
+                            "easing": null,
+                            "groupId": "wD3JGOiJ"
+                        }, {
+                            "id": "hWeVVPfH",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 1775,
+                            "easing": null,
+                            "groupId": "4yN7PaH8"
+                        }, {
+                            "id": "jY2GnHhs",
+                            "type": "regular",
+                            "value": "0.9",
+                            "time": 1800,
+                            "easing": null,
+                            "groupId": "4yN7PaH8"
+                        }, {
+                            "id": "VTn48KXs",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 1825,
+                            "easing": null,
+                            "groupId": "4yN7PaH8"
+                        }
+                    ],
+                    "keyframeGroups": {}
+                }, {
+                    "metadata": {
+                        "isDisabled": false,
+                        "isExpanded": true,
+                        "color": "rgb(51, 153, 255)"
+                    },
+                    "name": "scaleX",
+                    "keyframes": [{
+                            "id": "GmiWVrxw",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 650,
+                            "easing": null,
+                            "groupId": "5fngz1XN"
+                        }, {
+                            "id": "C0zIoPcd",
+                            "type": "regular",
+                            "value": "1.25",
+                            "time": 750,
+                            "easing": null,
+                            "groupId": "5fngz1XN"
+                        }, {
+                            "id": "D5y3lxfM",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 850,
+                            "easing": null,
+                            "groupId": "5fngz1XN"
+                        }, {
+                            "id": "zGDsLIGz",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 1400,
+                            "easing": null,
+                            "groupId": "4V6GKWYs"
+                        }, {
+                            "id": "4qh0JDuH",
+                            "type": "regular",
+                            "value": "1.15",
+                            "time": 1450,
+                            "easing": null,
+                            "groupId": "4V6GKWYs"
+                        }, {
+                            "id": "Av9Ba9vh",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 1500,
+                            "easing": null,
+                            "groupId": "4V6GKWYs"
+                        }, {
+                            "id": "FajUv3Pp",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 1775,
+                            "easing": null,
+                            "groupId": "s88pIkdV"
+                        }, {
+                            "id": "4JcX370x",
+                            "type": "regular",
+                            "value": "1.1",
+                            "time": 1800,
+                            "easing": null,
+                            "groupId": "s88pIkdV"
+                        }, {
+                            "id": "9BRjO8uA",
+                            "type": "regular",
+                            "value": "1",
+                            "time": 1825,
+                            "easing": null,
+                            "groupId": "s88pIkdV"
+                        }
+                    ],
+                    "keyframeGroups": {}
+                }
+            ]
+        }
+    ]
+}
