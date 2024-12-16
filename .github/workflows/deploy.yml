@@ -22,7 +22,7 @@ jobs:
       run: npm ci
       
     - name: Config npm
-      run: npm set-script homepage https://html-animator.github.io
+      run: npm pkg set homepage="https://html-animator.github.io"
       
     - name: Build web app
       run: npm run build
