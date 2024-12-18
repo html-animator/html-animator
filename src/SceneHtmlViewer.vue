@@ -6,6 +6,14 @@
         <div v-if="Math.round(sceneTransform.scale * 100) !== 100" class="info">
             {{ Math.round(sceneTransform.scale * 100) }}%
         </div>
+        <div class="button-list">
+            <Button class="icon-button" severity="secondary" title="Zoom in" @click="zoomIn">
+                <span class="icon-zoom-in" />
+            </Button>
+            <Button class="icon-button" severity="secondary" title="Zoom out" @click="zoomOut">
+                <span class="icon-zoom-out" />
+            </Button>
+        </div>
     </div>
 </template>
 
@@ -112,8 +120,17 @@
                     }
                 }
             },
+            zoom(delta) {
+                this.sceneTransform.scale = Math.min(Math.max(this.sceneTransform.scale - delta / 1000, 0.1), 10);
+            },
+            zoomIn() {
+                this.zoom(-100);
+            },
+            zoomOut() {
+                this.zoom(100);
+            },
             onWheelCtrlScroll(event) {
-                this.sceneTransform.scale = Math.min(Math.max(this.sceneTransform.scale - event.deltaY / 1000, 0.1), 10);
+                this.zoom(event.deltaY);
             }
         }
     }

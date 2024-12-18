@@ -52,6 +52,18 @@ body {
                         height: 100%;
                     }
 
+                    .button-list {
+                        position: absolute;
+                        right: 5px;
+                        bottom: 5px;
+                        display: flex;
+                        flex-direction: column;
+                        gap: 5px;
+                        padding: 5px;
+                        border-radius: 5px;
+                        background-color: var(--icon-button-background-panel);
+                    }
+
                     &.svg-scene {
                         .scene-background {
                             display: flex;
@@ -68,18 +80,6 @@ body {
                                     background-position: 0 0, 12.5px 0, 12.5px -12.5px, 0px 12.5px;
                                 }
                             }
-                        }
-
-                        .button-list {
-                            position: absolute;
-                            right: 5px;
-                            bottom: 5px;
-                            display: flex;
-                            flex-direction: column;
-                            gap: 5px;
-                            padding: 5px;
-                            border-radius: 5px;
-                            background-color: var(--icon-button-background-panel);
                         }
                     }
 
