@@ -70,8 +70,8 @@
                 this.iframe.contentWindow.document.open();
                 this.iframe.contentWindow.document.write(sceneMarkup);
                 this.iframe.contentWindow.document.close();
-                this.iframe.contentWindow.removeEventListener("scroll", this.onScoll, { passive: true });
-                this.iframe.contentWindow.addEventListener("scroll", this.onScoll, { passive: true });
+                this.iframe.contentWindow.removeEventListener("scroll", this.onScroll, { passive: true });
+                this.iframe.contentWindow.addEventListener("scroll", this.onScroll, { passive: true });
                 return promise;
             },
             unloadScene() {
@@ -85,7 +85,7 @@
             endResize() {
                 //this.iframe.style.pointerEvents = "auto";
             },
-            onScoll(event) {
+            onScroll(event) {
                 const scrollerHeight = this.iframe.contentWindow.document.body.clientHeight;
                 const scrollerScrollTop = this.iframe.contentWindow.document.body.scrollTop;
                 const scrollerContentHeight = this.iframe.contentWindow.document.body.scrollHeight;
