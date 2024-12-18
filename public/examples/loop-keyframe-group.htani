@@ -1,7 +1,7 @@
 {
     "metadata": {
         "timeline": {},
-        "fileFormatVersion": "com.htmlanimator.app.script.v1"
+        "fileFormatVersion": "htmlanimator.script.v1"
     },
     "animations": [{
             "targets": "#butterfly",

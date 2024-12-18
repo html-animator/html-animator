@@ -3,7 +3,7 @@ import RandomIds from "./shared/RandomIds.js";
 export default class AnimationScript {
     static deserializeAnimationScript(scriptString) {
         const script = JSON.parse(scriptString);
-        if (script.metadata.fileFormatVersion !== "com.htmlanimator.app.script.v1") {
+        if (script.metadata.fileFormatVersion !== "htmlanimator.script.v1") {
             throw "The script file is in the wrong format.";
         }
         if (!script.metadata.timeline) {
@@ -28,7 +28,7 @@ export default class AnimationScript {
 
     static serializeAnimationScript(script) {
         script = JSON.parse(JSON.stringify(script));
-        script.metadata.fileFormatVersion = "com.htmlanimator.app.script.v1";
+        script.metadata.fileFormatVersion = "htmlanimator.script.v1";
         script.animations.forEach(animation => {
             delete animation.id;
 
