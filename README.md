@@ -8,7 +8,7 @@ HTML Animator has adopted the concepts of anime.js, which should make it quite e
 
 **The app does not allow you to create or edit scenes, only to animate them! To edit scenes you must use a Text, HTML or SVG Editor.**
 
-![Application UI](./public/documentation/application.gif)
+![Application UI](./documentation/application.gif)
 
 [Launch the web app](https://html-animator.github.io) or [load an example scene](https://html-animator.github.io/?sceneUrl=%2Fexamples%2Fdriving.svg&scriptUrl=%2Fexamples%2Fdriving.htani)
 
