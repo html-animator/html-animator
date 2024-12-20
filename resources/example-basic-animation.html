@@ -1,0 +1,83 @@
+<html>
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.2/anime.min.js">
+</script>
+</head>
+<body>
+<svg viewBox="0 0 500 500" width="500px" height="500px" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" style="fill: rgb(255, 255, 255);"></rect>
+  <ellipse id="ball" cx="250" cy="95" rx="75" ry="75" style="fill: rgb(51, 153, 255); transform-box: fill-box; transform-origin: center bottom;"></ellipse>
+
+</svg>
+<script>
+let animationPaths = {};
+let pathSegment = null;
+
+const timeline = anime.timeline({
+    autoplay: true,
+    loop: false
+});
+
+timeline.add({
+    targets: "#ball",
+    easing: "linear",
+    translateY: {
+        value: [0, 330],
+        duration: 2000,
+        delay: 0,
+        easing: "easeOutBounce"
+    },
+    scaleY: [{
+        value: [1, 0.75],
+        duration: 100,
+        delay: 650,
+    }, {
+        value: [0.75, 1],
+        duration: 100,
+        delay: 0,
+    }, {
+        value: [1, 0.85],
+        duration: 50,
+        delay: 550,
+    }, {
+        value: [0.85, 1],
+        duration: 50,
+        delay: 0,
+    }, {
+        value: [1, 0.9],
+        duration: 25,
+        delay: 275,
+    }, {
+        value: [0.9, 1],
+        duration: 25,
+        delay: 0,
+    }],
+    scaleX: [{
+        value: [1, 1.25],
+        duration: 100,
+        delay: 650,
+    }, {
+        value: [1.25, 1],
+        duration: 100,
+        delay: 0,
+    }, {
+        value: [1, 1.15],
+        duration: 50,
+        delay: 550,
+    }, {
+        value: [1.15, 1],
+        duration: 50,
+        delay: 0,
+    }, {
+        value: [1, 1.1],
+        duration: 25,
+        delay: 275,
+    }, {
+        value: [1.1, 1],
+        duration: 25,
+        delay: 0,
+    }]
+}, 0);
+</script>
+</body>
+</html>
