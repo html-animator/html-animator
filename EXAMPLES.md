@@ -8,7 +8,7 @@ This example shows how to animate an object using keyframes.
 
 [Open example "basic animation" in HTML Animator](https://html-animator.github.io?sceneUrl=%2Fexamples%2Fbasic-animation.svg&scriptUrl=%2Fexamples%2Fbasic-animation.htani)
 
-[Load "basic animation" as HTML](https://rawcdn.githack.com/html-animator/web-app/tree/main/resources/example-basic-animation.html)
+[Load "basic animation" as HTML](https://rawcdn.githack.com/html-animator/web-app/refs/heads/main/resources/example-basic-animation.html)
 
 ## Path animation
 
@@ -18,7 +18,7 @@ This example shows how to animate an object along a path and how HTML Animator a
 
 [Open example "path animation" in HTML Animator](https://html-animator.github.io?sceneUrl=%2Fexamples%2Fpath-animation.svg&scriptUrl=%2Fexamples%2Fpath-animation.htani)
 
-[Load "path animation" as HTML](https://rawcdn.githack.com/html-animator/web-app/tree/main/resources/example-path-animation.html)
+[Load "path animation" as HTML](https://rawcdn.githack.com/html-animator/web-app/refs/heads/main/resources/example-path-animation.html)
 
 ## Stroke animation
 
@@ -28,7 +28,7 @@ This example shows how to animate the drawing progress of a path.
 
 [Open example "stroke animation" in HTML Animator](https://html-animator.github.io?sceneUrl=%2Fexamples%2Fstroke-animation.svg&scriptUrl=%2Fexamples%2Fstroke-animation.htani)
 
-[Load "stroke animation" as HTML](https://rawcdn.githack.com/html-animator/web-app/tree/main/resources/example-stroke-animation.html)
+[Load "stroke animation" as HTML](https://rawcdn.githack.com/html-animator/web-app/refs/heads/main/resources/example-stroke-animation.html)
 
 ## Loop keyframe group
 
@@ -38,7 +38,7 @@ This example shows how to loop parts of an animation.
 
 [Open example "loop keyframe group" in HTML Animator](https://html-animator.github.io?sceneUrl=%2Fexamples%2Floop-keyframe-group.svg&scriptUrl=%2Fexamples%2Floop-keyframe-group.htani)
 
-[Load "loop keyframe group" as HTML](https://rawcdn.githack.com/html-animator/web-app/tree/main/resources/example-loop-keyframe-group.html)
+[Load "loop keyframe group" as HTML](https://rawcdn.githack.com/html-animator/web-app/refs/heads/main/resources/example-loop-keyframe-group.html)
 
 ## Scroll-progress animation
 
@@ -48,7 +48,7 @@ This example shows how to animate an object according to the vertical scroll pro
 
 [Open example "scroll-progress animation" in HTML Animator](https://html-animator.github.io?sceneUrl=%2Fexamples%2Fscroll-progress-animation.html&scriptUrl=%2Fexamples%2Fscroll-progress-animation.htani)
 
-[Load "scroll-progress animation" as HTML](https://rawcdn.githack.com/html-animator/web-app/tree/main/resources/example-scroll-progress-animation.html)
+[Load "scroll-progress animation" as HTML](https://rawcdn.githack.com/html-animator/web-app/refs/heads/main/resources/example-scroll-progress-animation.html)
 
 ## View-progress animation
 
@@ -58,4 +58,4 @@ This example shows how to animate an object when it enters and leaves the view w
 
 [Open example "view-progress animation" in HTML Animator](https://html-animator.github.io?sceneUrl=%2Fexamples%2Fview-progress-animation.html&scriptUrl=%2Fexamples%2Fview-progress-animation.htani)
 
-[Load "view-progress animation" as HTML](https://rawcdn.githack.com/html-animator/web-app/tree/main/resources/example-view-progress-animation.html)
+[Load "view-progress animation" as HTML](https://rawcdn.githack.com/html-animator/web-app/refs/heads/main/resources/example-view-progress-animation.html)
