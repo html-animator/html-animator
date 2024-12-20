@@ -246,7 +246,11 @@
                     label: "Help",
                     items: [{
                         label: "Getting started",
-                        url: "https://github.com/html-animator/web-app/wiki/Getting-started",
+                        url: "https://github.com/html-animator/web-app/blob/main/GETTING-STARTED.md",
+                        target: "_blank"
+                    }, {
+                        label: "Examples",
+                        url: "https://github.com/html-animator/web-app/blob/main/EXAMPLES.md",
                         target: "_blank"
                     }, {
                         label: "About",
